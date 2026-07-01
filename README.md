@@ -1,213 +1,111 @@
-# <div align="center">
+# 👋 Hi, I'm Yash Bansal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6A5ACD,100:FF6EC7&height=260&section=header&text=Yash%20Bansal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5AF0&height=220&section=header&text=Yash%20Bansal&fontSize=48&fontColor=ffffff"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Yash+Bansal;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+Every+Day;Always+Learning+🚀"/>
+</p>
+
+## 🚀 About Me
+
+- 🎓 B.Tech (AKTU)
+- 💻 Aspiring Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently learning React, Node.js, Express, MongoDB and Next.js
+- 🎯 Goal: Become a Software Engineer and build impactful products.
+
+## 💻 Tech Stack
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,cpp,git,github,vscode,postman,tailwind"/>
 </p>
 
-</div>
+## 🚀 Featured Projects
+
+### 🤖 AI Voice Agents
+Built multiple real-time voice AI agents using Python, LiveKit, Gemini, Deepgram and Murf AI.
+
+### 🏏 IPL Analytics API
+REST API built using Flask, Pandas and NumPy.
+
+### 📧 Email Password Validator
+Responsive validator using HTML, CSS and JavaScript.
 
 ---
 
-# 💫 About Me
+## 📊 GitHub Statistics
 
-<img align="right" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-🎓 **B.Tech (Computer Science & Engineering)**
-
-🏫 **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**
-
-💻 Passionate **Full Stack Developer**
-
-🤖 AI & Machine Learning Enthusiast
-
-📊 Exploring Data Science and Modern Web Technologies
-
-🌱 Currently Learning
-
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* Next.js
-* REST APIs
-* Data Structures & Algorithms
-
-🎯 2026 Goals
-
-* 🚀 Land a Software Development Internship
-* 🌟 Build 20+ Production-Level Projects
-* 🤝 Contribute to Open Source
-* ⚛️ Master the MERN Stack
-* 🤖 Build AI-Powered Applications
-
----
-
-# 🌐 Connect With Me
+> Replace **yashbsl** with your username if different.
 
 <p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-### 🚀 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap"/>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-### 🤖 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Voice Agents
-
-**Python • LiveKit • Gemini • Deepgram • Murf AI**
-
-* Built multiple conversational AI Voice Agents
-* Integrated Speech-to-Text, LLM and Text-to-Speech
-* Real-time voice interactions
-* Production-ready AI workflows
-
----
-
-## 🏏 IPL Analytics API
-
-**Python • Flask • REST API • Pandas • NumPy**
-
-* Team analytics
-* Player insights
-* Match statistics
-* Public REST API deployment
-
----
-
-## 🔐 Email Password Validator
-
-**HTML • CSS • JavaScript**
-
-* Real-time validation
-* Responsive UI
-* Password strength checker
-* Modern form design
-
----
-
-## 🌐 Personal Portfolio
-
-* Responsive Design
-* Modern UI
-* Projects Showcase
-* Resume Download
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashbsl&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbsl&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=yashbsl&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=4&row=2"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=yashbsl&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
----
-
-# 📈 GitHub Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbsl&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+## 🐍 Snake Contribution Animation
 
-# 🐍 Snake Contribution Animation
+After creating the workflow below, use:
 
-> Enable the GitHub Action below to generate this animation automatically.
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/yashbsl/yashbsl/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+Create `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: yashbsl
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+## 👀 Visitor Counter
+
+```md
+<img src="https://komarev.com/ghpvc/?username=yashbsl&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+```
+
+## 💡 Quote
+
+> **Code • Learn • Build • Repeat**
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5AF0&height=120&section=footer"/>
 </p>
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ "Code • Learn • Build • Repeat"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6A5ACD,100:FF6EC7&height=120&section=footer"/>
-
-</div>
