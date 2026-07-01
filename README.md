@@ -160,16 +160,6 @@ A responsive Email & Password Validator with real-time validation and password s
 
 ---
 
-# 📊 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=yashbsl&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 # 💬 Favorite Quote
 
 > **"Code. Learn. Build. Repeat."** 🚀
