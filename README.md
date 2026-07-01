@@ -116,38 +116,6 @@ A responsive Email & Password Validator with real-time validation and password s
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashbsl&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbsl&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yashbsl&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbsl&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - ⚛️ React.js
@@ -159,95 +127,73 @@ A responsive Email & Password Validator with real-time validation and password s
 - 🧠 Data Structures & Algorithms
 
 ---
-# 🚀 Featured Projects
+# 🏆 Achievements
 
-## 🤖 AI Voice Agents
-
-> **Python • LiveKit • Gemini • Deepgram • Murf AI**
-
-Built multiple real-time AI Voice Agents capable of natural conversations using modern speech recognition, LLMs, and text-to-speech technologies.
-
-### Highlights
-- 🎤 Real-time Voice Interaction
-- 🤖 Gemini AI Integration
-- 🔊 Deepgram Speech-to-Text
-- 🗣️ Murf AI Text-to-Speech
-- ⚡ LiveKit Agents Framework
+- 🚀 Building Full Stack Projects
+- 🤖 Exploring AI & Machine Learning
+- 📚 Consistently Learning New Technologies
+- 🌟 Open Source Enthusiast
 
 ---
 
-## 🏏 IPL Analytics API
+# 🎯 Goals for 2026
 
-> **Python • Flask • Pandas • NumPy • REST API**
-
-A REST API that provides IPL team, player, and match analytics from historical IPL datasets.
-
-### Features
-
-- 📊 Team Statistics
-- 👨‍💻 Player Analytics
-- 🤝 Head-to-Head Comparison
-- ⚡ Fast JSON API
-- 🌐 Deployable on Render
+- 🚀 Become a Full Stack Developer
+- 💼 Secure a Software Development Internship
+- 🌍 Contribute to Open Source Projects
+- 📈 Solve 500+ DSA Problems
+- ⚡ Build Scalable Web Applications
 
 ---
 
-## 📧 Email Password Validator
+# 📫 Connect With Me
 
-> **HTML • CSS • JavaScript**
+<p align="left">
 
-A responsive Email & Password Validator with real-time validation and password strength checking.
+<a href="https://github.com/yashbsl" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Features
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- ✅ Email Validation
-- 🔒 Strong Password Detection
-- 👁️ Show / Hide Password
-- ⚡ Instant Feedback
-- 📱 Responsive UI
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+> Replace **YOUR_LINKEDIN** and **YOUR_EMAIL** with your own details.
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 Profile Views
 
-<p align="center">
+<p align="left">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashbsl&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbsl&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=yashbsl&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 💬 Favorite Quote
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yashbsl&theme=tokyonight&hide_border=true"/>
-
-</p>
+> **"Code. Learn. Build. Repeat."** 🚀
 
 ---
 
-# 📊 Contribution Graph
+# 🤝 Let's Connect
 
-<p align="center">
+If you like my work or want to collaborate on exciting projects, feel free to connect with me!
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbsl&theme=tokyo-night&hide_border=true"/>
-
-</p>
+⭐ **Don't forget to star my repositories if you find them useful.**
 
 ---
 
-# 🌱 Currently Learning
+<div align="center">
 
-- ⚛️ React.js
-- 🚀 Next.js
-- 🌐 Node.js
-- 🟢 Express.js
-- 🍃 MongoDB
-- 🔗 REST APIs
-- 🧠 Data Structures & Algorithms
+### Thanks for visiting my profile! ❤️
 
----
+</div>
