@@ -3,13 +3,6 @@
 <h3 align="center">
 Full Stack Developer • AI & Machine Learning Enthusiast
 </h3>
-
-<p align="center">
-  <a href="https://github.com/yashbsl">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Learner;Always+Learning+New+Things+🚀" />
-  </a>
-</p>
-
 ---
 
 # 🚀 About Me
@@ -154,17 +147,15 @@ A responsive Email & Password Validator with real-time validation and password s
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/yash-bansal-b33163339/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:yashbansal216@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
-> Replace **YOUR_LINKEDIN** and **YOUR_EMAIL** with your own details.
 
 ---
 
